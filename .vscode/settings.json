@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "elixir.credo.strictMode": true,
+    "elixirLS.enableTestLenses": true
+}
